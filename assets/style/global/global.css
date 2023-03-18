@@ -29,6 +29,7 @@ a {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 img[src$=".jpg"] { /*seleção de atributo que termina com "$="*/
